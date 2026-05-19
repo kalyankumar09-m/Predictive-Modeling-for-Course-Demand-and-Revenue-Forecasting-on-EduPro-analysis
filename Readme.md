@@ -255,7 +255,7 @@ Shows the highest-performing courses based on revenue.
 
 
 
-![Feature importance](feature importance.png)
+![Feature importance](feature.png)
 
 
 
@@ -272,7 +272,7 @@ Shows the highest-performing courses based on revenue.
 
 
 
-![Top revenue](top revenue.png)
+![Top revenue](revenue.png)
 
 
 
