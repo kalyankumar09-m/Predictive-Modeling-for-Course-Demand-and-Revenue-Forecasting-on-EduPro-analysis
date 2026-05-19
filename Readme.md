@@ -217,7 +217,7 @@ Shows the highest-performing courses based on revenue.
 
 
 
-\*\*!\\\[Dashboard](dashboard.png)\*\*
+![Dashboard](dashboard.png)
 
 
 
@@ -237,15 +237,9 @@ Shows the highest-performing courses based on revenue.
 
 
 
-\*\*!\\\[Charts](charts.png)\*\*
+![Charts](charts.png)
 
 
-
-
-
-
-
-\*\*---\*\*
 
 
 
@@ -261,7 +255,7 @@ Shows the highest-performing courses based on revenue.
 
 
 
-\*\*!\\\[Feature Importance](feature importance.png)\*\*
+![Feature Importance](feature importance.png)
 
 
 
@@ -285,7 +279,7 @@ Shows the highest-performing courses based on revenue.
 
 
 
-\*\*!\\\[Top Revenue](top revenue.png)\*\*
+![Top Revenue](top revenue.png)
 
 
 
