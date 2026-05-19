@@ -263,13 +263,6 @@ Shows the highest-performing courses based on revenue.
 
 
 
-\*\*---\*\*
-
-
-
-
-
-
 
 \*\*## 🔹 Top Revenue\*\*
 
