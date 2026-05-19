@@ -1,6 +1,6 @@
 import pandas as pd
 
-FILE_PATH = r"C:\Users\kalya\Downloads\EduPro Online Platform.xlsx"
+FILE_PATH = "EduPro Online Platform.xlsx"
 
 
 def load_sheets():
